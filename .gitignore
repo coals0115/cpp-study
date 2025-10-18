@@ -1,0 +1,14 @@
+# C++ compiled executables (확장자 없는 바이너리 파일 무시)
+*
+!*/
+!*.*
+
+# IDE configuration files
+.idea/c_cpp_properties.json
+.idea/editor.xml
+
+# Claude Code settings
+.claude/settings.local.json
+
+# macOS system files
+.DS_Store
