@@ -74,8 +74,6 @@ int main() {
         max_num = num3;
     }
 
-    std::cout << "가장 큰 수는 " << max_num << "입니다." << std::endl;
-
-
+    cout << "가장 큰 수는 " << max_num << "입니다." << endl;
 
 }
